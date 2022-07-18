@@ -1,0 +1,51 @@
+- name: Group 1
+  topic: 'summary of group project topic'
+  repo: link-to-project-repo
+  members:
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+
+- name: Group 2
+  topic: 'summary of group project topic'
+  repo: link-to-project-repo
+  members:
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+
+- name: Group 3
+  topic: 'summary of group project topic'
+  repo: link-to-project-repo
+  members:
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+
+- name: Group 4
+  topic: 'summary of group project topic'
+  repo: link-to-project-repo
+  members:
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
+    - name: octocat
+      user: octocat
