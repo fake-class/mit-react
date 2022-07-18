@@ -32,9 +32,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -42,9 +42,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -52,9 +52,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -62,9 +62,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td></tr></table>
 
@@ -81,9 +81,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -91,9 +91,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -101,9 +101,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -111,9 +111,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td></tr></table>
 
@@ -130,9 +130,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -140,9 +140,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -150,9 +150,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -160,9 +160,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td></tr></table>
 
@@ -179,9 +179,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -189,9 +189,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -199,9 +199,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td><td>
 
@@ -209,9 +209,9 @@ summary of group project topic
 
 <h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Ahelp%20%20wanted)
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
 \|
-[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3Aquestion)
+[questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
 </td></tr></table>
 

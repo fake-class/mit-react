@@ -6,8 +6,8 @@ export const learner = ({ env = {} }, { name = '', user = '' }) => {
   const issuesSearch = (label = [], linkText = label, role = 'assignee') =>
     `[${linkText}](${repoURL}/issues/?q=${role}%3A${user}+${
       Array.isArray(label)
-        ? label.map((l) => `label%3A${encodeUIRComponent(l)}`).join('+')
-        : `label%3A${encodeURIComponent(label)}`
+        ? label.map((l) => `label%3A%22${encodeUIRComponent(l)}%22`).join('+')
+        : `label%3A%22${encodeURIComponent(label)}%22`
     })`;
 
   const aList = (...rows) =>
@@ -25,7 +25,7 @@ export const learner = ({ env = {} }, { name = '', user = '' }) => {
   )}/avatars/${user}.png" height="200px" width="200px" alt="${user} avatar" />`;
 
   const classLinks = [
-    issuesSearch('help  wanted', 'help wanted', 'author'),
+    issuesSearch('help wanted', 'help wanted', 'author'),
     issuesSearch('question', 'questions', 'author'),
   ];
 
