@@ -30,9 +30,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -40,9 +42,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -50,9 +54,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -60,9 +66,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -79,9 +87,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -89,9 +99,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -99,9 +111,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -109,9 +123,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -128,9 +144,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -138,9 +156,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -148,9 +168,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -158,9 +180,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -177,9 +201,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -187,9 +213,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -197,9 +225,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 
@@ -207,9 +237,11 @@ summary of group project topic
 
 <img src="./admin/assets/avatars/octocat.png" height="200px" width="200px" alt="octocat avatar" />
 
-<h4 id="octocat">octocat: <a href="https://github.com/octocat">octocat</a></h4>
+<h4 id="octocat">octocat - <a href="https://github.com/octocat">octocat</a></h4>
 
-[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20%20wanted%22)
+[study repository](https://github.com/octocat/learning-in-public)
+
+[help wanted](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22help%20wanted%22)
 \|
 [questions](https://github.com/fake-class/mit-react/issues/?q=author%3Aoctocat+label%3A%22question%22)
 

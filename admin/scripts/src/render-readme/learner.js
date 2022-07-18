@@ -18,7 +18,7 @@ export const learner = ({ env = {} }, { name = '', user = '' }) => {
 
   // --- build the section ---
 
-  const header = `<h4 id="${user}">${name}: <a href="https://github.com/${user}">${user}</a></h4>`;
+  const header = `<h4 id="${user}">${name} - <a href="https://github.com/${user}">${user}</a></h4>`;
 
   const avatar = `<img src="./${env.assetsPath.join(
     '/',
@@ -36,6 +36,8 @@ export const learner = ({ env = {} }, { name = '', user = '' }) => {
 ${avatar}
 
 ${header}
+
+[study repository](https://github.com/${user}/learning-in-public)
 
 ${linksList}
 
