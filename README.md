@@ -8,9 +8,6 @@
   - [discussion](https://github.com/fake-class/mit-react/issues?q=label%3Adiscussion+is%3Aopen)
 - [Shared Notes](./shared-notes)
 - [Guides](./guides)
-  - [Learning in Public](./guides/learning-in-public)
-  - [Class Workflows](./guides/class-workflows)
-  - [Tiny Projects](./guides/tiny-projects)
 
 ---
 
