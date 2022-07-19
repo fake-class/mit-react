@@ -13,10 +13,18 @@ labels: check-in
 
 > [group project repo](__)
 
-## We Need Help With:
+## We Need Help With
 
 ## What went well?
 
 ## What went less well?
+
+---
+
+## Start Doing
+
+## Continue Doing
+
+## Stop Doing
 
 ## Lessons Learned

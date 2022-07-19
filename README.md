@@ -11,7 +11,6 @@
   - [Learning in Public](./guides/learning-in-public)
   - [Class Workflows](./guides/class-workflows)
   - [Tiny Projects](./guides/tiny-projects)
-- [Slack](slack)
 
 ---
 

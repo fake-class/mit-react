@@ -1,90 +1,18 @@
-> this is the guides from HYF trimmed down a bit. we can use this as a starting
-> point for the ReACT repo if you like it
-
----
-
 # Guides
 
-Lots of (hopefully) helpful information to help you get the most out of your
-time at HYF.
+The group projects you will work on will help you understand investigative data
+science projects from beginning to end. The main focus is collaboration, project
+planning/scoping, and communicating your results effectively.
 
-Like you, this document is always improving. If you feel something is missing or
-might be improved, please send a _pull request_ or open _an issue_ in your class
-repository.
+You should keep the technical aspects of your project as simple as possible so
+you can finish your projects on schedule, and so you are free to focus on _the
+big picture_:
 
-Good luck on your journey to a new future for yourself and your loved ones! 🍀
+![the big picture](./assets/the-big-picture.svg)
 
-- [What is Programming?](#what-is-programming)
-- [You are in Control](#you-are-in-control)
-- [Collaboration vs. Cheating](#collaboration-vs-cheating)
-- [Planning & Collaborating](#planning-and-collaborating)
-- [Tiny Projects](./tiny-projects/README.md)
-- [Study Tips](./study-tips/README.md)
-  - [Learning from Code](./study-tips/learning-from-code.md)
-  - [Self-Assessment](./study-tips/self-assessment.md)
-  - [How to Ask Questions](./study-tips/how-to-ask-questions.md)
-  - [Study Strategies](./study-tips/study-strategies.md)
-- Class Workflows
-  - [Asking for Help](./class-workflows/asking-for-help.md)
-  - [Deliverables](./class-workflows/deliverables.md)
-  - [Retrospectives](./class-workflows/retrospectives.md)
+Some small guides to help you find your way:
 
----
-
-## What is Programming?
-
-Programming is communication. It's also a lot of other things, but this
-curriculum will focus on the different ways you communicate with your code.
-
-When you write code you are really just writing a text document, exactly like
-you might write an email or a note. The biggest difference between an email and
-a computer program is _who you are writing for_.
-
-When you write an email you're writing for the person who will be reading it.
-When you write a computer program you are writing for 3 very different audiences
-at the same time! One single document (your code) needs to be understandable to:
-
-- **Developers**: A developer needs to read your code and understand what you
-  were trying to do and why.
-- **Computers**: Your code needs to have _perfect_ syntax so the computer can
-  parse it, and you must write instructions that are allowed by the programming
-  language or the computer will throw an error.
-- **Users**: The instructions you give to the computer must create an intuitive
-  and pleasant experience for the user.
-
-Being a developer means understanding how all these characters interact, then
-communicating with everyone involved to deliver quality software within your
-project's constraints. This diagram shows the different channels of
-communication in a software project:
-
-<img width="600px" src="./assets/rhetorical-situation.svg"/>
-
-## You are in Control
-
-Throughout your HYF journey and your overall career as a programmer, you will be
-responsible for your own learning. 25-30 hours of study is just the minimum we
-suggest. The more time you spend and the better you study, the faster you will
-find yourself in a job you love. The more you participate and become part of the
-HYF community, the more friends you will make, and the more people will want to
-help you.
-
-This is not a race against the curriculum or a race against other students. It's
-a marathon to a new career, and no one is giving you a rank.
-
-## Collaboration vs. Cheating
-
-Collaborating is encouraged, cheating is not tolerated. There is a large
-difference between stealing and collaboration, even if the end result looks the
-same (you and another student have the same code). If we find two or more
-homework assignments with the same code we will check in with everyone involved
-to see if this was collaborative work or cheating:
-
-- **Collaboration** is when you ask each other for help or for explanations, you
-  voluntarily share code, and take the time to explain/understand what has been
-  shared.
-- **Cheating** is when you copy someone’s code to complete the homeworks without
-  taking to the time to understand it, without letting them know, or without
-  them explaining why they wrote what they did.
-
-At HYF you will not be getting grades on every exercise, so if you cheat you're
-only cheating yourself!
+1. [Learning in Public](./learning-in-public.md)
+2. [Check-Ins](./check-ins.md)
+3. [Planning & Collaboration](./planning-and-collaboration.md)
+4. [Project Phases](./project-phases.md)

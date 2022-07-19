@@ -26,17 +26,7 @@ export const top = ({ env = {}, home = {} }) =>
   - [Learning in Public](./guides/learning-in-public)
   - [Class Workflows](./guides/class-workflows)
   - [Tiny Projects](./guides/tiny-projects)
-${
-  home.forum
-    ? `- [${
-        home.forum.includes('discord')
-          ? 'Discord'
-          : home.forum.includes('slack')
-          ? 'Slack'
-          : 'Forum'
-      }](${home.forum})`
-    : `- [Discussions](https://github.com/${env.user}/${env.repo}/discussions)`
-}
+
 
 ---
 
