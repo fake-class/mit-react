@@ -251,13 +251,27 @@ summary of group project topic
 
 ## TAs
 
-<img src="./admin/assets/avatars/lanacook.png" height="200px" width="200px" alt="lanacook avatar" />
+<table><tr><td>
 
-<h3 id="lanacook">Lana: <a href="https://github.com/lanacook">lanacook</a></h3>
+<img src="./admin/assets/avatars/k80chen.png" height="200px" width="200px" alt="k80chen avatar" />
 
-<a href="https://github.com/fake-class/mit-react/issues?q=commenter%3Alanacook">commented</a>
+<h3 id="k80chen">Katie: <a href="https://github.com/k80chen">k80chen</a></h3>
+
+<a href="https://github.com/fake-class/mit-react/issues?q=assignee%3Ak80chen">assigned</a>
 \|
-<a href="https://github.com/fake-class/mit-react/issues?q=mentions%3Alanacook">mentioned</a>
+<a href="https://github.com/fake-class/mit-react/issues?q=mentions%3Ak80chen">mentioned</a>
+
+</td><td>
+
+<img src="./admin/assets/avatars/sopzha.png" height="200px" width="200px" alt="sopzha avatar" />
+
+<h3 id="sopzha">Sophie: <a href="https://github.com/sopzha">sopzha</a></h3>
+
+<a href="https://github.com/fake-class/mit-react/issues?q=assignee%3Asopzha">assigned</a>
+\|
+<a href="https://github.com/fake-class/mit-react/issues?q=mentions%3Asopzha">mentioned</a>
+
+</td></tr></table>
 
 ---
 

@@ -1,10 +1,8 @@
-export const peopleGrid = (data = []) => {
-  const NUMBER_OF_COLUMNS = data.length <= 4 ? data.length : 3;
-
+export const peopleGrid = (data = [], columns = 4) => {
   const learners2D = [];
-  for (let i = 0; i < data.length; i += NUMBER_OF_COLUMNS) {
+  for (let i = 0; i < data.length; i += columns) {
     let nextRow = [];
-    for (let j = 0; j < NUMBER_OF_COLUMNS; j++) {
+    for (let j = 0; j < columns; j++) {
       nextRow.push(data[i + j]);
     }
     learners2D.push(nextRow.map((learner) => learner || null));
@@ -14,7 +12,9 @@ export const peopleGrid = (data = []) => {
   for (const dataRow of learners2D) {
     let row = '<tr>';
     for (const thing of dataRow) {
-      row += `<td>\n\n${thing || ''}\n\n</td>`;
+      if (thing) {
+        row += `<td>\n\n${thing}\n\n</td>`;
+      }
     }
     row += '</tr>';
     table += row;

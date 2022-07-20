@@ -16,10 +16,8 @@ export const renderReadme = (config = {}) =>
     groups:
       config?.groups?.length > 0
         ? section(config, {
-            // title: 'Groups',
             component: group,
             data: config.groups,
-            collapse: false,
           })
         : '',
     tas:
@@ -28,7 +26,7 @@ export const renderReadme = (config = {}) =>
             title: 'TAs',
             component: ta,
             data: config.tas,
-            collapse: false,
+            grid: true,
           })
         : '',
     techSupport: `

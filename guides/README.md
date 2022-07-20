@@ -12,7 +12,9 @@ big picture_:
 
 Some small guides to help you find your way:
 
-1. [Learning in Public](./learning-in-public.md)
-2. [Check-Ins](./check-ins.md)
-3. [Planning & Collaboration](./planning-and-collaboration.md)
-4. [Project Phases](./project-phases.md)
+- [Learning in Public](./learning-in-public.md)
+- [Check-Ins](./check-ins.md)
+- [Planning & Collaboration](./planning-and-collaboration.md)
+- [Project Phases](./project-phases.md)
+- [Finishing Touches](./finishing-touches.md)
+- [TAs](./tas.md)

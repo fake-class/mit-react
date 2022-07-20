@@ -18,7 +18,7 @@ export const ta = ({ env = {}, home = {} }, { name = '', user = '' }) => {
   )}/avatars/${user}.png" height="200px" width="200px" alt="${user} avatar" />`;
 
   const issuesLinks = [
-    `<a href="${repoURL}/issues?q=commenter%3A${user}">commented</a>`,
+    `<a href="${repoURL}/issues?q=assignee%3A${user}">assigned</a>`,
     `<a href="${repoURL}/issues?q=mentions%3A${user}">mentioned</a>`,
   ];
 
